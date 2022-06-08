@@ -3,15 +3,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0077b6&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Wellington+Santana;I'm+21+years+old;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Welldevbr&show_icons=true&count_private=true&hide_border=true&title_color=0077b6&icon_color=0077b6&text_color=c9d1d9&bg_color=0d1117" alt="Wellington Santana github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAlvarez&layout=compact&hide_border=true&title_color=0077b6&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=Welldevbr&show_icons=true&count_private=true&hide_border=true&title_color=0077b6&icon_color=0077b6&text_color=c9d1d9&bg_color=0d1117" alt="Wellington Santana github stats" /> 
+  <img width="41%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAlvarez&layout=compact&hide_border=true&title_color=0077b6&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=Welldevbr&color=0077b6&bg_color=0d1117&line=0077b6&point=c9d1d9&area_color=0077b6&radius=5&hide_border=true&area=true)
+##
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=welldevbr&theme=nord&row=1&no-bg=true&column=6&margin-w=15&margin-h=15" />
-</p>
 
 ### Main skills:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
@@ -27,11 +24,18 @@
 
 ### Other Knowledge:
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
   
 ### Studying in this moment:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Angular.js](https://img.shields.io/badge/Angular-0D1117?style=for-the-badge&logo=angular&logoColor=DD0031)&nbsp;
+![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
+
+##
+![Contribution](https://activity-graph.herokuapp.com/graph?username=Welldevbr&color=0077b6&bg_color=0d1117&line=0077b6&point=c9d1d9&area_color=0077b6&radius=5&hide_border=true&area=true)
+##
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=welldevbr&theme=nord&row=1&no-bg=true&column=4&margin-w=15&margin-h=15" />
+</p>
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0077b6&height=120&section=footer"/>
