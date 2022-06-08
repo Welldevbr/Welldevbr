@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0077b6&height=120&section=header&fontSize=30&fontColor=fff&animation=none&fontAlignY=35"/> 
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0077b6&size=35&center=true&vCenter=true&duration=8000&width=1000&lines=HELLO,+MY+NAME+is+Wellington+Santana;I'm+a+developer+Front-end+in+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c9d1d9&size=35&center=true&vCenter=true&duration=8000&width=1000&lines=HELLO,+MY+NAME+is+Wellington+Santana;I'm+a+developer+Front-end+in+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 ##
 
 <div align="center">  
@@ -34,5 +34,3 @@
 
 ##
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=Welldevbr&color=0077b6&bg_color=0d1117&line=0077b6&point=c9d1d9&area_color=0077b6&radius=5&hide_border=true&area=true)
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0077b6&height=120&section=footer"/>
