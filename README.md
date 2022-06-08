@@ -33,9 +33,5 @@
 
 ##
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=Welldevbr&color=0077b6&bg_color=0d1117&line=0077b6&point=c9d1d9&area_color=0077b6&radius=5&hide_border=true&area=true)
-##
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=welldevbr&theme=nord&row=1&no-bg=true&column=4&margin-w=15&margin-h=15" />
-</p>
-  
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0077b6&height=120&section=footer"/>
