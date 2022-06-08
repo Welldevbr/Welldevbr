@@ -1,6 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0077b6&height=200&section=header&text=Wellington Santana&fontSize=30&fontColor=fff&animation=none&fontAlignY=35"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0077b6&height=120&section=header&fontSize=30&fontColor=fff&animation=none&fontAlignY=35"/> 
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0077b6&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Wellington+Santana;I'm+21+years+old;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0077b6&size=35&center=true&vCenter=true&duration=8000&width=1000&lines=HELLO,+MY+NAME+is+Wellington+Santana;I'm+a+developer+Front-end+in+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+##
 
 <div align="center">  
   <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=Welldevbr&show_icons=true&count_private=true&hide_border=true&title_color=0077b6&icon_color=0077b6&text_color=c9d1d9&bg_color=0d1117" alt="Wellington Santana github stats" /> 
