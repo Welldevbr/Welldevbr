@@ -1,6 +1,5 @@
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c9d1d9&size=35&center=true&vCenter=true&duration=8000&width=1000&lines=HELLO,+MY+NAME+is+Wellington+Santana;I'm+a+developer+Front-end+in+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
-##
 
 <div align="center">  
   <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=Welldevbr&show_icons=true&count_private=true&hide_border=true&title_color=0077b6&icon_color=0077b6&text_color=c9d1d9&bg_color=0d1117" alt="Wellington Santana github stats" /> 
