@@ -34,5 +34,3 @@
 ![Angular.js](https://img.shields.io/badge/Angular-0D1117?style=for-the-badge&logo=angular&logoColor=DD0031)&nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=02569B&labelColor=0D1117)&nbsp;
 
-##
-![Contribution](https://activity-graph.herokuapp.com/graph?username=Welldevbr&color=0077b6&bg_color=0d1117&line=0077b6&point=c9d1d9&area_color=0077b6&radius=5&hide_border=true&area=true)
