@@ -1,10 +1,16 @@
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c9d1d9&size=35&center=true&vCenter=true&duration=8000&width=1000&lines=HELLO,+MY+NAME+is+Wellington+Santana;I'm+a+developer+Front-end+in;Be+Welcome!+:%29)](https://git.io/typing-svg)
+# Hi, I'm Well Dev! :D
 
-<div align="center">  
-  <img width="40%" height="230px" src="https://github-readme-stats.vercel.app/api?username=Welldevbr&show_icons=true&count_private=true&hide_border=true&title_color=0077b6&icon_color=0077b6&text_color=c9d1d9&bg_color=0d1117" alt="Wellington Santana github stats" /> 
-  <img width="40%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Welldevbr&layout=compact&hide_border=true&title_color=0077b6&text_color=c9d1d9&bg_color=0d1117" />
-</div>
+[![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&style=for-the-badge&logo=vercel&logoColor=white)](https://www.linkedin.com/in/wellington-santana-b616991b8/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wellington-santana-b616991b8/)](https://www.linkedin.com/in/wellington-santana-b616991b8/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-f64363?style=flat-square&labelColor=f64363&logo=instagram&logoColor=white&link=https://twitter.com/fagnerpsantos)](https://twitter.com/fagnerpsantos)
+
+### About me
+Me chamo wellington ou well-dev e sou desenvolvedor front-end e designer, 
+desde 2020 ajudando a levar inovação para meus clientes.
+Amente de café e tecnologia. ☕️
+
+Vejá um pouco do meu [trabalho](https://wel.dev/) - 💻.
 
 ##
 
