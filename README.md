@@ -1,14 +1,17 @@
  
 # Hi, I'm Well Dev! :D
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wellington-santana-b616991b8/)](https://www.linkedin.com/in/wellington-santana-b616991b8/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/welldevbr/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-f64363?style=flat-square&labelColor=f64363&logo=instagram&logoColor=white&link=https://instagram.com/welldevbr)](https://instagram.com/welldevbr)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wellington-santana-b616991b8/)](https://www.linkedin.com/in/wellington-santana-b616991b8/)&nbsp;
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-f64363?style=flat-square&labelColor=f64363&logo=instagram&logoColor=white&link=https://instagram.com/welldevbr)](https://instagram.com/welldevbr)&nbsp;
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/welldevbr/)&nbsp;
 
-### About me
-Me chamo wellington ou well-dev, sou desenvolvedor front-end e designer, 
-desde 2020 ajudando a levar inovação para meus clientes.
-Amente de café e tecnologia.
+</br>
+
+### Sobre mim
+Me chamo wellington ou well-dev, sou desenvolvedor front-end e designer, </br>
+desde 2020 ajudando a levar inovação e praticidade para meus clientes, </br>
+atualmente trabalho como freelancer
+e também sou amante de café e tecnologia.  ☕️
 
 Vejá um pouco do meu [trabalho](https://well.dev/) - 💻.
 
