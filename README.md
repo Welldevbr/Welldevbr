@@ -6,7 +6,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-f64363?style=flat-square&labelColor=f64363&logo=instagram&logoColor=white&link=https://instagram.com/welldevbr)](https://instagram.com/welldevbr)
 
 ### About me
-Me chamo wellington ou well-dev e sou desenvolvedor front-end e designer, 
+Me chamo wellington ou well-dev, sou desenvolvedor front-end e designer, 
 desde 2020 ajudando a levar inovação para meus clientes.
 Amente de café e tecnologia.
 
