@@ -17,7 +17,7 @@ Vejá um pouco do meu [trabalho](https://well.dev/) - 💻.
 ##
 
 
-### Main skills:
+### Principais Habilidades:
 ![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-0D1117?style=for-the-badge&logo=javascript)&nbsp;
@@ -25,13 +25,15 @@ Vejá um pouco do meu [trabalho](https://well.dev/) - 💻.
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Next JS](https://img.shields.io/badge/Next-0D1117?style=for-the-badge&logo=next.js&logoColor=white)
 
-![Bootstrap](https://img.shields.io/badge/bootstrap-0D1117?style=for-the-badge&logo=bootstrap)
+
+![My SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/bootstrap-0D1117?style=for-the-badge&logo=bootstrap)&nbsp;
 ![SASS](https://img.shields.io/badge/Sass-0D1117?style=for-the-badge&logo=sass&logoColor=CC6699&textColor=CC6699)&nbsp;
 ![Styled Components](https://img.shields.io/badge/styled--components-0D1117?style=for-the-badge&logo=styled-components&logoColor=DB7093)&nbsp;
-	![GraphQL](https://img.shields.io/badge/-GraphQL-0D1117?style=for-the-badge&logo=graphql&logoColor=E10098)&nbsp;
+![GraphQL](https://img.shields.io/badge/-GraphQL-0D1117?style=for-the-badge&logo=graphql&logoColor=E10098)&nbsp;
 
 
-### Tools:
+### Ferramentas:
 ![VS Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=563D7C&labelColor=0D1117)&nbsp;
@@ -39,12 +41,10 @@ Vejá um pouco do meu [trabalho](https://well.dev/) - 💻.
 ![Adobe Photoshop](https://img.shields.io/badge/photoshop-0D1117?style=for-the-badge&logo=adobe%20photoshop&logoColor=31A8FF)&nbsp;
 ![Adobe Illustrator](https://img.shields.io/badge/illustrator-0D1117?style=for-the-badge&logo=adobe%20illustrator&logoColor=FF9A00)&nbsp;
 
-
-
 ![Linux](https://img.shields.io/badge/-linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&logoColor=0078D6&textColor=white)
   
-### learning to skills: 
+### Estudando no momento: 
 
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![React Native](https://img.shields.io/badge/react_native-0D1117?style=for-the-badge&logo=react&)&nbsp;
