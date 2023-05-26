@@ -26,12 +26,16 @@ Vejá um pouco do meu [trabalho](https://well.dev/)  💻.
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Next JS](https://img.shields.io/badge/Next-0D1117?style=for-the-badge&logo=next.js&logoColor=white)
 
-![My SQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=005C84)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/bootstrap-0D1117?style=for-the-badge&logo=bootstrap)&nbsp;
 ![SASS](https://img.shields.io/badge/Sass-0D1117?style=for-the-badge&logo=sass&logoColor=CC6699&textColor=CC6699)&nbsp;
 ![Styled Components](https://img.shields.io/badge/styled--components-0D1117?style=for-the-badge&logo=styled-components&logoColor=DB7093)&nbsp;
 ![Tailwind](https://img.shields.io/badge/tailwindcss-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=4EB3AC)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-0D1117?style=for-the-badge&logo=graphql&logoColor=E10098)&nbsp;
+
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![SQLite](https://img.shields.io/badge/sqlite-0D1117?style=for-the-badge&logo=sqlite&logoColor=07405E)&nbsp;
+![My SQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=005C84)&nbsp;
+![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=Firebase&logoColor=F69903)&nbsp;
 
 <br />
 
@@ -51,7 +55,6 @@ Vejá um pouco do meu [trabalho](https://well.dev/)  💻.
   
 ### 👨‍💻  - Estudando no momento: 
 
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![React Native](https://img.shields.io/badge/react_native-0D1117?style=for-the-badge&logo=react&)&nbsp;
 ![Angular.js](https://img.shields.io/badge/Angular-0D1117?style=for-the-badge&logo=angular&logoColor=DD0031)&nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=02569B&labelColor=0D1117)&nbsp;
