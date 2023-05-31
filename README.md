@@ -8,7 +8,7 @@
 </br>
 
 ### Sobre mim
-Me chamo wellington ou well-dev, sou desenvolvedor front-end e designer, desde 2020 ajudando a levar inovação e praticidade para meus clientes,
+Me chamo wellington ou "well dev", sou desenvolvedor front-end e designer, desde 2020 ajudando a levar inovação e praticidade para meus clientes,
 atualmente trabalho como freelancer
 e também sou amante de café e tecnologia.  ☕️
 
