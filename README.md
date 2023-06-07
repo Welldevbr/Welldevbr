@@ -3,7 +3,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wellington-santana-b616991b8/)](https://www.linkedin.com/in/wellington-santana-b616991b8/)&nbsp;
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-f64363?style=flat-square&labelColor=f64363&logo=instagram&logoColor=white&link=https://instagram.com/well_dev_)](https://instagram.com/well_dev_)&nbsp;
-[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/welldev)&nbsp;
+[![Behance Badge](https://img.shields.io/badge/Behance-1769ff?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/welldev)&nbsp;
 
 
 </br>
